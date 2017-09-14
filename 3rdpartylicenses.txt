@@ -173,8 +173,6 @@ SOFTWARE.
 
 angular-date-value-accessor@0.0.1 MIT
 
-@angular/animations@4.3.4 MIT
-
 @angular/common@4.3.4 MIT
 
 webpack@3.4.1 MIT
